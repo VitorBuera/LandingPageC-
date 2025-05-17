@@ -68,14 +68,14 @@ body {
   background-color: #eef4fa;
 }
 
-.tech-list {
+.list {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 15px;
 }
 
-.tech-list span {
+.list span {
   background-color: #dbeeff;
   padding: 10px 15px;
   border-radius: 5px;
